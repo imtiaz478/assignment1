@@ -55,3 +55,32 @@ header{
     margin-top: 117px;
     margin-bottom: 117px;
 }
+
+.second{
+    font-style: Fira Sans;
+    font-size: 40px;
+    margin-left: 160px;
+}
+
+.kk{
+    font-style: Fira Sans;
+}
+
+.para1{
+    color: #0E0E0E;
+}
+
+.card1{
+    width: 302px;
+    height: 244px;
+    padding: 24px;
+    background-color: whitesmoke;
+    margin-top: 32px;
+    margin-left: 140px;
+}
+
+.card{
+    display: flex;
+    gap: 3px;
+    justify-content: space-evenly;
+}
