@@ -185,3 +185,41 @@ header{
    margin-top: 32px;
    border-radius: 16px;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #d1e7dd;
+    padding: 10px;
+    text-align: left;
+    font-size: 1rem;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+th, td {
+    border: 1px solid #D5D6D8;
+    padding: 8px;
+    text-align: left;
+}
+.container {
+    max-width: 1104px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #d1e7dd;
+    cursor: pointer;
+}
