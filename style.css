@@ -265,6 +265,7 @@ select {
 .head5{
     font-style: Fira Sans;
     font-size: 40px;
+    text-align: center;
 }
 
 .btn8{
@@ -289,4 +290,34 @@ select {
     border-radius: 16px;
     padding: 40px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.para8{
+    margin-left: 248px;
+    margin-right: 248px;
+    color: #0E0E0E;
+    opacity: 60%;
+}
+
+.btn8-9{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.in{
+    text-align: center;
+    width: 1032px;
+    height: 54px;
+    margin-left: 220px;
+}
+
+.btn10{
+    margin-left: 685px;
+    font-style: Fira Sans;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: #FFFFFF;
+    width: 110px;
+    height: 40px;
 }
