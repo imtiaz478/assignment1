@@ -261,3 +261,32 @@ select {
     /* max-width: 1104px;
     margin: 0 auto; */
 }
+
+.head5{
+    font-style: Fira Sans;
+    font-size: 40px;
+}
+
+.btn8{
+    background-color: #FFFFFF;
+    font-style: Fira Sans bold;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    height: 108px;
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn9{
+    background-color: #C6E4D6;
+    font-style: Fira Sans bold;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    height: 108px;
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
